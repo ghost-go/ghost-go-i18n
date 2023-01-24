@@ -1,7 +1,12 @@
 {
-  "description": "GhostGo - A nice place to learn and talk about Go/Weiqi/Baduk",
-  "editor_desc": "GhostGo - Online SGF Editor/Online Go Board",
-  "keywords": "GhostGo,Go,Baduk,Weiqi,Community",
-  "name": "GhostGo",
-  "share_title": "GhostGo - A nice place to learn and talk about Go/Weiqi/Baduk"
+  "ghostgo.name": "GhostGo",
+  "ghostgo.description": "GhostGo - A nice place to learn and talk about Go/Weiqi/Baduk",
+  "ghostgo.editor_desc": "GhostGo - Online SGF Editor/Online Go Board",
+  "ghostgo.keywords": "GhostGo,Go,Baduk,Weiqi,Community",
+  "ghostgo.share_title": "GhostGo - A nice place to learn and talk about Go/Weiqi/Baduk",
+  "shao.name": "GhostGo",
+  "shao.description": "GhostGo - A nice place to learn and talk about Go/Weiqi/Baduk",
+  "shao.editor_desc": "GhostGo - Online SGF Editor/Online Go Board",
+  "shao.keywords": "GhostGo,Go,Baduk,Weiqi,Community",
+  "shao.share_title": "GhostGo - A nice place to learn and talk about Go/Weiqi/Baduk"
 }

@@ -1,7 +1,12 @@
 {
-  "name": "GhostGo",
-  "share_title": "GhostGo - 一个学习与交流围棋的好地方",
-  "keywords": "GhostGo,围棋社区,围棋,weiqi,go,棋谱,死活",
-  "description": "GhostGo - 一个学习与交流围棋的好地方",
-  "editor_desc": "GhostGo - 在线棋谱编辑器/在线SGF编辑器/在线棋盘(BETA)"
+  "ghostgo.name": "GhostGo",
+  "ghostgo.share_title": "GhostGo - 一个学习与交流围棋的好地方",
+  "ghostgo.keywords": "GhostGo,围棋社区,围棋AI,围棋,weiqi,go,棋谱,死活",
+  "ghostgo.description": "GhostGo - 一个学习与交流围棋的好地方",
+  "ghostgo.editor_desc": "GhostGo- 在线棋谱编辑器/在线SGF编辑器/在线棋盘(BETA)",
+  "shao.name": "天勺围棋",
+  "shao.share_title": "天勺围棋 - 一个学习与交流围棋的好地方",
+  "shao.keywords": "天勺围棋,围棋社区,围棋AI,围棋,weiqi,go,棋谱,死活",
+  "shao.description": "天勺围棋 - 一个学习与交流围棋的好地方",
+  "shao.editor_desc": "天勺围棋- 在线棋谱编辑器/在线SGF编辑器/在线棋盘(BETA)"
 }
