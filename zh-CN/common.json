@@ -204,6 +204,7 @@
   "marked_posts": "我的收藏",
   "marked_your_post": "收藏了你的帖子",
   "markup": "标记",
+  "me": "我的",
   "message": "消息",
   "mode": "模式",
   "mode.abw": "黑白交替摆棋",
@@ -614,5 +615,10 @@
   "marked_as_wrong": "标记为错误答案",
   "marked_as_variant": "标记为变化答案",
   "revoke": "作废",
-  "records": "记录"
+  "records": "记录",
+  "resources": "资源",
+  "settings": "设置",
+  "feedback": "意见与反馈",
+  "login": "登录",
+  "notification_settings": "推送设置"
 }
