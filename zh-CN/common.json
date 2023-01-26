@@ -620,5 +620,13 @@
   "settings": "设置",
   "feedback": "意见与反馈",
   "login": "登录",
-  "notification_settings": "推送设置"
+  "notification_settings": "推送设置",
+  "clear_cache": "清除缓存",
+  "blocked_users": "已屏蔽用户",
+  "security": "账户安全",
+  "debug": "调试",
+  "about": "关于",
+  "check_update": "检查更新",
+  "terms_and_conditions": "用户服务协议",
+  "privacy_policy": "隐私协议"
 }

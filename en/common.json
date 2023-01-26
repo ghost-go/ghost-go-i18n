@@ -615,5 +615,16 @@
   "settings": "Settings",
   "feedback": "Feedback",
   "login": "Login",
-  "notification_settings": "Notification settings"
+  "notification_settings": "Notification settings",
+  "clear_cache": "Clear cache",
+  "blocked_users": "Blocked users",
+  "security": "Security",
+  "cache": "Cache",
+  "debug": "Debug",
+  "about": "About",
+  "check_update": "Check update",
+  "terms_and_conditions": "Terms & Conditions",
+  "privacy_policy": "Privacy policy",
+  "copied": "Copied",
+  "api_switch_to_development": "API switch to development environment"
 }
