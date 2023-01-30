@@ -626,5 +626,9 @@
   "terms_and_conditions": "Terms & Conditions",
   "privacy_policy": "Privacy policy",
   "copied": "Copied",
-  "api_switch_to_development": "API switch to development environment"
+  "api_switch_to_staging": "API switch to staging environment",
+  "filter": "Filter",
+  "all_level": "All Level",
+  "no_more_data": "No more data",
+  "an_error_occurred_tap_to_retry": "An error occurred, tap to retry"
 }

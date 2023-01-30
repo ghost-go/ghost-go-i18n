@@ -628,5 +628,10 @@
   "about": "关于",
   "check_update": "检查更新",
   "terms_and_conditions": "用户服务协议",
-  "privacy_policy": "隐私协议"
+  "privacy_policy": "隐私协议",
+  "copied": "已复制",
+  "api_switch_to_staging": "切换 API 至测试环境",
+  "filter": "筛选",
+  "no_more_data": "没有更多数据了",
+  "an_error_occurred_tap_to_retry": "出错了，点击重新加载"
 }

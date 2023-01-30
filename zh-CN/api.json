@@ -82,6 +82,7 @@
   "problem_answers.kind.right": "正解",
   "problem_answers.kind.variant": "变化",
   "problem_answers.kind.wrong": "错误",
+  "player": "棋手",
   "rank": "段位",
   "team.description": "班级描述",
   "team.members_count": "成员数",
