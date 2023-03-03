@@ -164,6 +164,7 @@
   "lesson.kind": "Type",
   "lesson.kind.article": "Article",
   "lesson.kind.quiz": "Quiz",
+  "ai_node": "Node",
   "ai_node.name": "Node name",
   "ai_node.desc": "Node desc",
   "ai_node.visits": "Visits/s",

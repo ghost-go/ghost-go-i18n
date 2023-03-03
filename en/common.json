@@ -397,6 +397,10 @@
   "rewarded_successfully": "Rewarded successfully",
   "rewarded_your_post": " rewarded your post",
   "right_answers": "Right Answers",
+  "correct_answers": "Correct Answers",
+  "correct": "Correct",
+  "incorrect_answers": "Incorrect Answers",
+  "incorrect": "Incorrect",
   "right_problems_count": "Right: {{x}}",
   "role": "Role",
   "roles": "Roles",
@@ -603,8 +607,8 @@
   "backfill": "Backfill",
   "your_level": "Your level",
   "order": "Order",
-  "score_diff": "Score",
-  "winrate_diff": "Winrate",
+  "score_diff": "Score diff",
+  "winrate_diff": "Winrate diff",
   "research": "Research",
   "marked_as_right": "Marked as right answer",
   "marked_as_wrong": "Marked as wrong answer",
@@ -630,5 +634,6 @@
   "filter": "Filter",
   "all_level": "All Level",
   "no_more_data": "No more data",
-  "an_error_occurred_tap_to_retry": "An error occurred, tap to retry"
+  "an_error_occurred_tap_to_retry": "An error occurred, tap to retry",
+  "date": "Date"
 }

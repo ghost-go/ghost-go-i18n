@@ -633,5 +633,6 @@
   "api_switch_to_staging": "切换 API 至测试环境",
   "filter": "筛选",
   "no_more_data": "没有更多数据了",
-  "an_error_occurred_tap_to_retry": "出错了，点击重新加载"
+  "an_error_occurred_tap_to_retry": "出错了，点击重新加载",
+  "date": "日期"
 }
