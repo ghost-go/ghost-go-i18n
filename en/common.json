@@ -635,5 +635,9 @@
   "all_level": "All Level",
   "no_more_data": "No more data",
   "an_error_occurred_tap_to_retry": "An error occurred, tap to retry",
-  "date": "Date"
+  "date": "Date",
+  "social_login": "Social login",
+  "create_account": "Create account",
+  "display_name": "Display name",
+  "optional": "Optional"
 }
