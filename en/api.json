@@ -65,7 +65,7 @@
   "org.kind": "Joining type",
   "org.kind.everyone": "Everyone",
   "org.kind.invitation_required": "Invitation Required",
-  "org.kind.noone": "Noone",
+  "org.kind.none": "None",
   "org.kind.verification_required": "Verification Required",
   "org.name": "Name",
   "org.private": "Private",

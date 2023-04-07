@@ -524,6 +524,7 @@
   "you_will_lose_all_lesson_status_and_exercise_results": "您将会丢失全部的课程状态及练习结果",
   "x_successfully": "{{x}}成功",
   "quiz_options": "测验选项",
+  "tags": "标签",
   "tag": "标签",
   "x_option_description": "{{x}}选项描述",
   "x_option": "{{x}}选项",
@@ -634,5 +635,7 @@
   "filter": "筛选",
   "no_more_data": "没有更多数据了",
   "an_error_occurred_tap_to_retry": "出错了，点击重新加载",
-  "date": "日期"
+  "date": "日期",
+  "all_level": "全部等级",
+  "all_levels": "全部等级"
 }
