@@ -643,5 +643,6 @@
   "display_name": "显示名称",
   "optional": "可选",
   "switching_to_staging": "切换至测试环境，重启生效",
-  "viewed": "看过的"
+  "viewed": "看过的",
+  "just_now": "刚刚"
 }

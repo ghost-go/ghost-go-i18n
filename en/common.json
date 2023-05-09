@@ -24,6 +24,7 @@
   "apply_to_join": "Apply to join",
   "approve": "Approve",
   "are_you_sure_to_x": "Are you sure to {{x}}?",
+  "are_you_sure_to_x_the_y": "Are you sure to {{x}} the {{y}}?",
   "are_you_sure_to": "Are you sure to",
   "are_you_sure_to_delete": "Are you sure to delete?",
   "are_you_sure_to_delete_the_comment": "Are you sure to delete the comment?",
@@ -643,5 +644,7 @@
   "display_name": "Display name",
   "optional": "Optional",
   "switching_to_staging": "Switching to staging environment, restrart app to take effect",
-  "viewed": "Viewed"
+  "viewed": "Viewed",
+  "invalidate": "Invalidate",
+  "the_x": "The {{x}}"
 }

@@ -117,6 +117,8 @@
   "user_exercise.rights_count": "Right count",
   "user_exercise.score": "Score",
   "user_exercise.status": "Status",
+  "user_exercise.status.all": "All",
+  "user_exercise.status.new,in_progress": "In progress",
   "user_exercise.status.done": "Done",
   "user_exercise.status.in_progress": "In progress",
   "user_exercise.status.new": "New",
