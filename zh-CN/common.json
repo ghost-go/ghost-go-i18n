@@ -615,7 +615,7 @@
   "marked_as_right": "标记为正确答案",
   "marked_as_wrong": "标记为错误答案",
   "marked_as_variant": "标记为变化答案",
-  "revoke": "作废",
+  "invalidate": "作废",
   "records": "记录",
   "resources": "资源",
   "settings": "设置",

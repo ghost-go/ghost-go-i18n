@@ -127,7 +127,7 @@
   "user_exercise.status.done": "已完成",
   "user_exercise.status.in_progress": "进行中",
   "user_exercise.status.new": "待完成",
-  "user_exercise.status.revoked": "已作废",
+  "user_exercise.status.invalid": "已作废",
   "user_exercise.user": "成员",
   "user_exercise.wrongs_count": "错误数量",
   "course": "课程",
