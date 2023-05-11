@@ -632,7 +632,7 @@
   "terms_and_conditions": "Terms & Conditions",
   "privacy_policy": "Privacy policy",
   "copied": "Copied",
-  "api_switch_to_staging": "API switch to staging environment",
+  "api_switch_to_x_env": "API switch to {{x}} environment",
   "filter": "Filter",
   "no_more_data": "No more data",
   "all_level": "All Level",
@@ -646,5 +646,12 @@
   "switching_to_staging": "Switching to staging environment, restrart app to take effect",
   "viewed": "Viewed",
   "invalidate": "Invalidate",
-  "the_x": "The {{x}}"
+  "the_x": "The {{x}}",
+  "locale.en": "English",
+  "locale.zh": "Chinese",
+  "locale.zh-CN": "Chinese(Simplified)",
+  "locale.zh-TW": "Chinese(Traditional)",
+  "language": "Language",
+  "staging": "Staging",
+  "production": "Production"
 }
