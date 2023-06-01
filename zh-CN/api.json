@@ -124,6 +124,8 @@
   "user_exercise.rights_count": "正确数量",
   "user_exercise.score": "得分",
   "user_exercise.status": "状态",
+  "user_exercise.status.all": "全部",
+  "user_exercise.status.new,in_progress": "进行中",
   "user_exercise.status.done": "已完成",
   "user_exercise.status.in_progress": "进行中",
   "user_exercise.status.new": "待完成",

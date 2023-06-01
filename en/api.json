@@ -17,7 +17,10 @@
   "collection.private": "Private",
   "collection.visibility": "Visibility",
   "collection.visibility.everyone": "Everyone",
-  "collection.visibility.noone": "Only visible to you",
+  "collection.visibility.none": "Only visible to you",
+  "collection.visibility.private": "Private",
+  "collection.visibility.internal": "Internal",
+  "collection.visibility.public": "Public",
   "comments_count": "Comments",
   "comments_upvoted_count": "Comment upvoted",
   "created_at": "Created at",
@@ -210,5 +213,7 @@
   "viewed_problem": "Viewed problem",
   "viewed_problems": "Viewed problems",
   "viewed_kifu": "Viewed kifu",
-  "viewed_kifus": "Viewed kifus"
+  "viewed_kifus": "Viewed kifus",
+  "post": "Post",
+  "posts": "Posts"
 }

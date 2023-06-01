@@ -647,9 +647,8 @@
   "display_name": "显示名称",
   "optional": "可选",
   "switching_to_x_env": "切换至{{x}}环境，重启生效",
-  "viewed": "看过的",
+  "viewed": "浏览记录",
   "just_now": "刚刚",
-  "invalidate": "作废",
   "the_x": "这个 {{x}}",
   "locale.en": "英语",
   "locale.zh": "中文",
@@ -657,5 +656,15 @@
   "locale.zh-TW": "中文(繁体)",
   "language": "语言",
   "staging": "测试",
-  "production": "生产"
+  "production": "生产",
+  "page_of": "第{{page}}/{{total}}页",
+  "problem_of": "第{{n}}/{{total}}题",
+  "total_x_collections": "总共{{x}}个习题册",
+  "visibility_private_desc": "仅自己可见",
+  "visibility_internal_desc": "任何人可见但不会出现在公开的列表中",
+  "visibility_public_desc": "任何人可见切会出现在公开的列表中",
+  "signin_err_email_in_use": "该邮箱已经被注册，请使用其他方式登录",
+  "user_service_agreement": "用户服务协议",
+  "i_have_read_and_agreed_to_the": "我已阅读并同意",
+  "and": "和"
 }
