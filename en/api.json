@@ -137,6 +137,7 @@
   "user.meta.gender": "Gender",
   "user.meta.lang": "Language",
   "user.meta.location": "Location",
+  "user.meta.country": "Country",
   "user.meta.rank": "Rank",
   "user.meta.tagline": "Tagline",
   "user.nickname": "Nickname",

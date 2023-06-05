@@ -112,6 +112,7 @@
   "user.meta.gender": "性别",
   "user.meta.lang": "语言",
   "user.meta.location": "城市",
+  "user.meta.country": "国家",
   "user.meta.rank": "段位",
   "user.meta.tagline": "一句话简介",
   "user.nickname": "昵称",
