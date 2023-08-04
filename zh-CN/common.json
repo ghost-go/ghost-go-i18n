@@ -690,5 +690,7 @@
   "partial": "局部",
   "initial_player": "先手",
   "auto": "自动",
-  "only_works_for_no_moves": "仅对无手数的棋局有效"
+  "only_works_for_no_moves": "仅对无手数的棋局有效",
+  "added_to_favorites": "已加入收藏夹",
+  "removed_from_favorites": "已移出收藏夹"
 }

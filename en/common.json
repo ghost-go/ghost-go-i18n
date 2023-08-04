@@ -700,5 +700,7 @@
   "initial_player": "Initial player",
   "auto": "auto",
   "current_player": "Current player",
-  "only_works_for_no_moves": "Only works for no moves"
+  "only_works_for_no_moves": "Only works for no moves",
+  "added_to_favorites": "Added to favorites",
+  "removed_from_favorites": "Removed from favorites"
 }
