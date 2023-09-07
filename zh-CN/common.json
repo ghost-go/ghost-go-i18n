@@ -427,7 +427,7 @@
   "saved_to_drafts": "已存至草稿箱",
   "scan_to_share": "扫一扫分享",
   "search_empty": "请输入搜索关键字",
-  "select_category": "选择版块",
+  "select_category": "请选择版块",
   "self": "自己",
   "send_confirmation_email": "发送验证邮件",
   "sgf_comment": "注解",
@@ -442,6 +442,7 @@
   "signup_now": "立即注册",
   "similar_posts": "相似帖子",
   "site_notification": "发布了系统通知",
+  "shell": "贝壳1",
   "slate_and_shell": "贝壳2",
   "sorry_we_current_support_manually_only": "非常抱歉，暂时只支持手动生成练习",
   "sound": "落子声音",
@@ -538,6 +539,7 @@
   "warning": "注意",
   "features": "功能介绍",
   "reset_course_status": "重置课程状态",
+  "select_board": "请选择版块",
   "you_will_lose_all_lesson_status_and_exercise_results": "您将会丢失全部的课程状态及练习结果",
   "x_successfully": "{{x}}成功",
   "quiz_options": "测验选项",
@@ -743,5 +745,8 @@
   "expand_all": "展开全部",
   "collapse_all": "收回全部",
   "board_vacant": "版主空缺，申请版主请与站长联系",
-  "mark_all_as_read": "全部已读"
+  "mark_all_as_read": "全部已读",
+  "signin_tips": "登录前请先阅读并同意相关协议",
+  "verfication_code_sent": "验证码已发送",
+  "have_a_account_to_enjoy": "注册账号可享受更多功能"
 }

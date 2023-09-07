@@ -206,7 +206,6 @@
   "male": "Male",
   "manually": "Manually",
   "manually_generate_exercise": "Generate exercise",
-  "create_exercise": "Create exercise",
   "mark": "Favorite",
   "marked": "Favorited",
   "marked_posts": "Favorited Posts",
@@ -451,8 +450,8 @@
   "similar_posts": "Similar posts",
   "site_notification": "post a site notification",
   "slate_and_shell": "Slate and Shell",
-  "themes.slate-and-shell": "Slate and Shell",
-  "themes.black-and-white": "Black and White",
+  "themes.slate_and_shell": "Slate and Shell",
+  "themes.black_and_white": "Black and White",
   "sorry_we_current_support_manually_only": "Sorry! Currently we support manually only",
   "sound": "Sound",
   "subdued": "Subdued",
@@ -752,5 +751,8 @@
   "expand_all": "Expand all",
   "collapse_all": "Collapse all",
   "board_vacant": "The Moderator is vacant, to apply for the moderator please contact the admin",
-  "mark_all_as_read": "Mark as read"
+  "mark_all_as_read": "Mark as read",
+  "signin_tips": "Please read and agree to the agreement before signing in",
+  "verfication_code_sent": "Verfication code sent",
+  "have_a_account_to_enjoy": "Have an account to enjoy more features"
 }
