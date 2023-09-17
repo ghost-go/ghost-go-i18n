@@ -749,5 +749,6 @@
   "mark_all_as_read": "全部已读",
   "signin_tips": "登录前请先阅读并同意相关协议",
   "verfication_code_sent": "验证码已发送",
-  "have_a_account_to_enjoy": "注册账号可享受更多功能"
+  "have_a_account_to_enjoy": "注册账号可享受更多功能",
+  "load_more": "加载更多"
 }
