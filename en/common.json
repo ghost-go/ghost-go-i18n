@@ -755,5 +755,6 @@
   "signin_tips": "Please read and agree to the agreement before signing in",
   "verfication_code_sent": "Verfication code sent",
   "have_a_account_to_enjoy": "Have an account to enjoy more features",
-  "load_more": "Load more"
+  "load_more": "Load more",
+  "refersh_node_status": "Refresh status"
 }
