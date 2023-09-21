@@ -28,6 +28,7 @@
   "approve": "通过",
   "are_you_sure_to": "您确定要",
   "are_you_sure_to_x": "确定要{{x}}吗？",
+  "are_you_sure_to_x_the_y": "确定要{{x}}{{y}}吗?",
   "are_you_sure_to_delete": "确定要删除吗？",
   "are_you_sure_to_delete_the_comment": "确认删除评论？",
   "are_you_sure_to_delete_the_file_folder": "是否确认删除该文件/目录？",
