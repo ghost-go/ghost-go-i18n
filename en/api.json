@@ -20,6 +20,8 @@
   "collection.visibility.private": "Private",
   "collection.visibility.internal": "Internal",
   "collection.visibility.public": "Public",
+  "comment": "Comment",
+  "comment_other": "Comments",
   "comments_count": "Comments",
   "comments_upvoted_count": "Comment upvoted",
   "created_at": "Created at",
@@ -81,6 +83,8 @@
   "org.kind.verification_required": "Verification Required",
   "org.name": "Name",
   "org.private": "Private",
+  "post": "Post",
+  "post_other": "Posts",
   "post.category": "Category",
   "post.content": "Content",
   "post.title": "Title",
@@ -235,6 +239,6 @@
   "viewed_problem_other": "Viewed problems",
   "viewed_kifu": "Viewed kifu",
   "viewed_kifu_other": "Viewed kifus",
-  "post": "Post",
-  "post_other": "Posts"
+  "draft": "Draft",
+  "draft_other": "Drafts"
 }

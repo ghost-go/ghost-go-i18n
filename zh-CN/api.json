@@ -18,6 +18,8 @@
   "collection.visibility.private": "私密",
   "collection.visibility.internal": "内部使用",
   "collection.visibility.public": "公开",
+  "comment": "评论",
+  "comment_other": "评论",
   "comments_count": "评论数",
   "comments_upvoted_count": "评论被赞数",
   "created_at": "创建时间",
@@ -75,6 +77,8 @@
   "org.kind.verification_required": "需审核后加入",
   "org.name": "棋社名称",
   "org.private": "私密",
+  "post": "帖子",
+  "post_other": "帖子",
   "post.category": "版块",
   "post.content": "正文",
   "post.title": "标题",
@@ -222,5 +226,7 @@
   "viewed_problem": "浏览过的习题",
   "viewed_problem_other": "浏览过的习题",
   "viewed_kifu": "浏览过的棋谱",
-  "viewed_kifu_other": "浏览过的棋谱"
+  "viewed_kifu_other": "浏览过的棋谱",
+  "draft": "草稿",
+  "draft_other": "草稿"
 }
