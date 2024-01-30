@@ -70,6 +70,7 @@
   "message.kind.user_upgrade": "User upgrade",
   "message.kind.user_viewed": "User viewed",
   "message.kind.user_wechat_binded": "Wechat binding",
+  "message.kind.report_disposed": "Report disposed",
   "name": "Name",
   "org": "Organization",
   "org_other": "Organizations",
