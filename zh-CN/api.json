@@ -66,6 +66,7 @@
   "message.kind.user_phone_binded": "手机绑定",
   "message.kind.user_upgrade": "用户升级",
   "message.kind.user_wechat_binded": "微信绑定",
+  "message.kind.report_disposed": "举报被处理",
   "name": "名称",
   "org": "棋社",
   "org.image": "棋社图标",
