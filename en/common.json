@@ -804,5 +804,6 @@
   "confirm_rejection_for_all_reports": "Confirm rejection for all reports?",
   "approve_all": "Approve all",
   "reject_all": "reject all",
-  "admin_panel": "Admin panel"
+  "admin_panel": "Admin panel",
+  "redo": "Redo"
 }

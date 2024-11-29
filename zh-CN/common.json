@@ -802,5 +802,6 @@
   "confirm_rejection_for_all_reports": "确认驳回全部举报信息吗？",
   "approve_all": "全部通过",
   "reject_all": "全部驳回",
-  "admin_panel": "后台管理"
+  "admin_panel": "后台管理",
+  "redo": "重做"
 }
