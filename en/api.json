@@ -236,9 +236,9 @@
   "ai_job.turns_count": "Moves",
   "ai_job.analyzed_count": "Analyzed",
   "ai_job.failed_count": "Failed",
-  "viewed_problem": "Viewed problem",
+  "viewed_problems": "Viewed problem",
   "viewed_problem_other": "Viewed problems",
-  "viewed_kifu": "Viewed kifu",
+  "viewed_kifus": "Viewed kifu",
   "viewed_kifu_other": "Viewed kifus",
   "draft": "Draft",
   "draft_other": "Drafts"

@@ -224,9 +224,9 @@
   "ai_job.turns_count": "总手数",
   "ai_job.analyzed_count": "已分析",
   "ai_job.failed_count": "已失败",
-  "viewed_problem": "浏览过的习题",
+  "viewed_problems": "浏览过的习题",
   "viewed_problem_other": "浏览过的习题",
-  "viewed_kifu": "浏览过的棋谱",
+  "viewed_kifus": "浏览过的棋谱",
   "viewed_kifu_other": "浏览过的棋谱",
   "draft": "草稿",
   "draft_other": "草稿"
