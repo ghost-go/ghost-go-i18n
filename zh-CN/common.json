@@ -803,5 +803,9 @@
   "approve_all": "全部通过",
   "reject_all": "全部驳回",
   "admin_panel": "后台管理",
-  "redo": "重做"
+  "redo": "重做",
+  "input_member_name": "请输入成员名称",
+  "input_member_phone": "请输入成员报名时手机号",
+  "user_exists_add_to_the_organization_anyway": "该手机号已在网站注册过账号，是否仍然将其加入到组织中？",
+  "create_and_add_member": "创建并添加成员"
 }

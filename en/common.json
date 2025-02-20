@@ -805,5 +805,9 @@
   "approve_all": "Approve all",
   "reject_all": "reject all",
   "admin_panel": "Admin panel",
-  "redo": "Redo"
+  "redo": "Redo",
+  "input_member_name": "Please input member name",
+  "input_member_phone": "Please input member phone",
+  "user_exists_add_to_the_organization_anyway": "The user already exists, add to the organization anyway?",
+  "create_and_add_member": "Create and add member"
 }
